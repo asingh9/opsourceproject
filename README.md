@@ -8,4 +8,4 @@ I have created a command-line python program that scans a PDF document and outpu
 
 #### Usage
 
-For the command-line tool, use tldr.py and provide arguments <inputfile.pdf> and <numWords>, respectively the PDF file to parse and the number of most frequent words to output.
+For the command-line tool, use tldr.py and provide arguments \<inputfile.pdf> and \<numWords>, respectively the PDF file to parse and the number of most frequent words to output.
